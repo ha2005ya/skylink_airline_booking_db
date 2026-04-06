@@ -115,11 +115,3 @@ This project reflects how database systems can solve real-world problems in airl
 
 * Haya Hany Ano Said
 * Mariam Osama Awadallah
-
----
-
-## 👨‍🏫 Supervisor
-
-* Eng. Noor Neshwan
-
----
